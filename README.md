@@ -9,8 +9,7 @@
 
 <h2>💻 I'm Currently Learning</h2>
 
-__Full Stack Web Development__
-__Flutter__
+__Full Stack Web Development and Flutter__
 
 
 <h2>Stats</h2>

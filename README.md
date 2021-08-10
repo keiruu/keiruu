@@ -27,9 +27,9 @@ __Full Stack Web Development__
 Check me out here!
  
 - Behance: [https://www.behance.net/abbyunat](https://www.behance.net/abbyunat)
-- Linkedin: [https://www.linkedin.com/in/unating-abigail-kaye-134209212/](https://www.linkedin.com/in/unating-abigail-kaye-134209212/)
+- Linkedin: [https://www.linkedin.com/in/abbyunat/](https://www.linkedin.com/in/abbyunat/)
 - Twitter: [https://twitter.com/akusikei](https://twitter.com/akusikei)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:WriteToabigailkaye.unating@wvsu.edu.ph">![WriteTo@abigailkaye.unating@wvsu.edu.ph](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/unating-abigail-kaye-134209212/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:WriteToabigailkaye.unating@wvsu.edu.ph">![WriteTo@abigailkaye.unating@wvsu.edu.ph](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/abbyunat/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>

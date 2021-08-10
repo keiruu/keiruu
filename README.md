@@ -5,7 +5,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=keiruu.keiruu)](https://github.com/keiruu) [![GitHub followers](https://img.shields.io/github/followers/keiruu.svg?style=social&label=Follow)](https://github.com/keiruu?tab=followers)
 
-- <i>Currently:</i> Information Technology student at West Visayas State University
+- <i>Currently:</i> Information Technology student Major in Software Technologies at West Visayas State University
 
 <h2>💻 I'm Currently Learning</h2>
 

@@ -7,10 +7,6 @@
 
 - <i>Currently:</i> Information Technology student Major in Software Technologies at West Visayas State University
 
-<h2>💻 I'm Currently Learning</h2>
-
-__Full Stack Web Development and Flutter__
-
 
 <h2>Stats</h2>
 
@@ -26,7 +22,6 @@ __Full Stack Web Development and Flutter__
 
 Check me out here!
  
-- Behance: [https://www.behance.net/abbyunat](https://www.behance.net/abbyunat)
 - Linkedin: [https://www.linkedin.com/in/abbyunat/](https://www.linkedin.com/in/abbyunat/)
 - Twitter: [https://twitter.com/akusikei](https://twitter.com/akusikei)
 

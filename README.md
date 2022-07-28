@@ -5,7 +5,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=keiruu.keiruu)](https://github.com/keiruu) [![GitHub followers](https://img.shields.io/github/followers/keiruu.svg?style=social&label=Follow)](https://github.com/keiruu?tab=followers)
 
-- <i>Currently:</i> Information Technology student Major in Software Technologies at West Visayas State University
+- <i>Currently an Information Technology student Major in Software Technologies at West Visayas State University</i> 
 
 
 <h2>Stats</h2>
@@ -24,6 +24,7 @@ Check me out here!
  
 - Linkedin: [https://www.linkedin.com/in/abbyunat/](https://www.linkedin.com/in/abbyunat/)
 - Twitter: [https://twitter.com/akusikei](https://twitter.com/akusikei)
+- Website: [https://abigailkaye.vercel.app](https://abigailkaye.vercel.app)
 
 <h2>📫 How to reach me:</h2>
 

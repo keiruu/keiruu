@@ -18,13 +18,13 @@
   <b>
 </div>
 
-<h2> Public Social Media⚡:</h2>
+<h2>⚡ Social Media:</h2>
 
 Check me out here!
  
 - Linkedin: [https://www.linkedin.com/in/abbyunat/](https://www.linkedin.com/in/abbyunat/)
 - Twitter: [https://twitter.com/akusikei](https://twitter.com/akusikei)
-- Website: [https://abigailkaye.vercel.app](https://abigailkaye.vercel.app)
+- Website: [https://abigailkayeunating.vercel.app](https://abigailkayeunating.vercel.app)
 
 <h2>📫 How to reach me:</h2>
 

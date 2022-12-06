@@ -6,6 +6,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=keiruu.keiruu)](https://github.com/keiruu) [![GitHub followers](https://img.shields.io/github/followers/keiruu.svg?style=social&label=Follow)](https://github.com/keiruu?tab=followers)
 
 - <i>Currently an Information Technology student Major in Software Technologies at West Visayas State University</i> 
+- <i>Hobbies include: Gaming, Drawing, & Keyboard Modding</i> 
 
 
 <h2>Stats</h2>

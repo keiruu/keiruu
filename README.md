@@ -5,7 +5,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=keiruu.keiruu)](https://github.com/keiruu) [![GitHub followers](https://img.shields.io/github/followers/keiruu.svg?style=social&label=Follow)](https://github.com/keiruu?tab=followers)
 
-- <i>Open for job opportunities, message me  visit my [website](https://akunating.vercel.app) for more information</i> 
+- <i>I'm now open for job opportunities, message me at abigailkaye.unating@gmail.com or visit my [website](https://akunating.vercel.app) for more information</i> 
 - <i>Hobbies include: Gaming, Drawing, & Keyboard Modding</i> 
 
 
